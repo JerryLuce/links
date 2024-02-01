@@ -1108,3 +1108,13 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* Odysee */
+.button.button-cash-app {
+  color: #ffffff;
+  background-image: linear-gradient(to bottom, #f42b60, #fc9700);
+}
+.button.button-cash-app:hover,
+.button.button-cash-app:focus {
+  filter: brightness(90%);
+}
+
